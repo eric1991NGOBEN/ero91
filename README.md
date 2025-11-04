@@ -1,2 +1,2 @@
 # ero91
-Bus Management System Database
+Amandla High School Locker System
